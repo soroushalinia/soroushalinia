@@ -28,7 +28,7 @@
 
 I design, automate, and operate infrastructure, and write the tooling that runs on top of it. I work with Go, Kubernetes, and Linux, and prefer systems that are reproducible and boring in production.
 
-I contribute to open-source projects like [Parch Linux](https://parchlinux.com/), and I keep most of my work focused on the platform layer: operators, automation, and CI/CD.
+I contribute to open-source projects like [Parch Linux](https://parchlinux.com/), and I keep most of my work focused on the DevOps side of things: infrastructure as code, observability, and CI/CD pipelines.
 
 Currently focused on **Kubernetes operators**, **backup automation**, and **declarative infrastructure**.
 
